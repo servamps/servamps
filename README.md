@@ -1,25 +1,10 @@
-<p align="center">
-𓏲𝄢 
- <p align="center">
-entwined, we dream unknown.
-</p>  
+<div align="center">
 
-<p align="center">
-<img src="https://files.catbox.moe/688tz0.jpeg">
- </p>
+  
+![](https://komarev.com/ghpvc/?username=underurwings&color=000000&style=plastic&label=𓏲𝄢&abbreviated=true)
+
+<br/><div align="center">
+  <img src="https://files.catbox.moe/688tz0.jpeg">
+</div>
 
 
-<!--
-**underurwings/underurwings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
