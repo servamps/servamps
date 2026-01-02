@@ -8,5 +8,5 @@
 </div>
 
 <br/><div align="center"><br/>
-***entwined, we dream*** .
+19, they/thm, taken.
 </div>
