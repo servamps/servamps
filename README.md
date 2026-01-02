@@ -8,5 +8,5 @@
 </div>
 
 <br/><div align="center"><br/>
-19, they/thm, taken.
+19, they, taken.
 </div>
