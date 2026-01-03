@@ -5,6 +5,4 @@
   <img src="https://files.catbox.moe/dqd09y.png">
 </div>
 
-***- c+h is enc, preferably not as ships pls.***
-
-***- i dont rp either.***
+***- c+h is enc, i dont rp.***
