@@ -6,7 +6,3 @@
 <br/><div align="center">
   <img src="https://files.catbox.moe/dqd09y.png">
 </div>
-
-<br/><div align="center"><br/>
-maybe making rntr.
-</div>
